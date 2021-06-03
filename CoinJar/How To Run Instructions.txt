@@ -1,0 +1,7 @@
+=====================How to run the program=========================================
+
+The below can be ran in an online program or visual studio that compiles the code. 
+
+click run the program will then open with instructions, follow the instructions.
+
+as per the program prompts simply reply and press enter to continue.
